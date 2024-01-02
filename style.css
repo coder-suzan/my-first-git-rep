@@ -1,8 +1,9 @@
 body {
-    background-color: black;
+    background-color: rgb(36, 38, 168);
     color: aliceblue;
 }
 
-h1, p{
-    text-align: center;
+.first__div{
+    width: 300px;
+    margin: auto;
 }
